@@ -13,18 +13,18 @@
             <span>Balita</span>
         </a>
         <div class="dropdown-menu" aria-labelledby="pagesDropdown">
-            <a class="dropdown-item" href="<?php echo site_url('admin/Balita/add') ?>">New Balita</a>
-            <a class="dropdown-item" href="<?php echo site_url('admin/Balita') ?>">List Balita</a>
+            <a class="dropdown-item" href="<?php echo site_url('admin/sbadmin/add') ?>">New Balita</a>
+            <a class="dropdown-item" href="<?php echo site_url('admin/newsbadmin') ?>">List Balita</a>
         </div>
     </li>
     <li class="nav-item">
         <a class="nav-link" href="#">
             <i class="fas fa-fw fa-users"></i>
-            <span>Users</span></a>
+            <span>admin</span></a>
     </li>
     <li class="nav-item">
         <a class="nav-link" href="#">
             <i class="fas fa-fw fa-cog"></i>
-            <span>Settings</span></a>
+            <span>extend</span></a>
     </li>
 </ul>
