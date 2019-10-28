@@ -19,7 +19,7 @@ class Welcome extends CI_Controller {
 	 * @see https://codeigniter.com/user_guide/general/urls.html
 	 */
 
-	//tambah jajal
+	//tambah jajal saaaaaaa
 	public function index()
 	{
 		$this->load->view('welcome_message');
